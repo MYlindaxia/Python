@@ -1,6 +1,7 @@
 import os
 import easygui as gui
-import Name as n
+from HomeWorkSystem import Name as n
+
 Total = 0
 
 Fall = set()
